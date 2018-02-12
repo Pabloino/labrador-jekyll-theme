@@ -15,6 +15,12 @@
 			"paragraph_3": "El umbral se definirá como el percentil 90.",
 			"section": "Introducción"
 		},
+		"profile_base": {
+			"title": "Bases de datos",
+			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
+			"paragraph_2": "La idea principal del trabajo será predecir, la localización del inmueble en el cual se obtendrá el mayor incremento en el precio, para el año siguiente, en base al reconocimiento de las variables que determinan que el incremento sea mayor a un umbral definido.",
+			"section": "Bases de datos"
+		},
 		"profile_quote": {
 			"title": "Favorite quote",
 			"quote": "\" No matter that few are your possessions and your money. Having a dog makes you rich. \"",
