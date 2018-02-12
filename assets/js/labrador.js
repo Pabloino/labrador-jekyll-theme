@@ -15,6 +15,9 @@ $(document).ready(function () {
 		// ABOUT
 		if (scroll >= 400) $('.text-about p').addClass('show');
 		if (scroll <= 200) $('.text-about p').removeClass('show');
+		// BASES
+		if (scroll >= 400) $('.text-base p').addClass('show');
+		if (scroll <= 200) $('.text-base p').removeClass('show');
 		// QUOTE
 		if (scroll >= 1200) { $('.text-quote p').addClass('show'); $('.section-bullets').addClass('section-bullets-white'); }
 		if (scroll >= 2090 || scroll <= 1200) { $('.text-quote p').removeClass('show');$('.section-bullets').removeClass('section-bullets-white'); }
