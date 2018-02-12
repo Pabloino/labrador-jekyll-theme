@@ -18,12 +18,12 @@
 		"profile_base": {
 			"title": "Bases de datos",
 			"paragraph_1": "Las bases fueron obtenidas de la <a href='https://data.buenosaires.gob.ar/' target='_blank'>web del Gobierno de la Ciudad</a> y son las siguientes:",
-			"paragraph_2": "<ul>Departamentos en venta de Capital Federal durante los años 2007 - 2015</ul>",
-			"paragraph_3": "<ul>Centros de Salud Privado</ul>",
-			"paragraph_4": "<ul>Centros de Salud y Acción Comunitaria</ul>",
-			"paragraph_5": "<ul>Centros Médicos Barriales</ul>",
-			"paragraph_6": "<ul>Comisarías</ul>",
-			"paragraph_7": "<ul>Establecimientos Educativos</ul>",
+			"paragraph_2": "- Departamentos en venta de Capital Federal durante los años 2007 - 2015",
+			"paragraph_3": "- Centros de Salud Privado",
+			"paragraph_4": "- Centros de Salud y Acción Comunitaria",
+			"paragraph_5": "- Centros Médicos Barriales",
+			"paragraph_6": "- Comisarías",
+			"paragraph_7": "<ul><li>Establecimientos Educativos</li><li>Estaciones</li></ul>",
 			"section": "Bases de datos"
 		},
 		"profile_quote": {
