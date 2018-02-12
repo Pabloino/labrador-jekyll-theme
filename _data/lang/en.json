@@ -17,8 +17,13 @@
 		},
 		"profile_base": {
 			"title": "Bases de datos",
-			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
-			"paragraph_2": "La idea principal del trabajo será predecir, la localización del inmueble en el cual se obtendrá el mayor incremento en el precio, para el año siguiente, en base al reconocimiento de las variables que determinan que el incremento sea mayor a un umbral definido.",
+			"paragraph_1": "Las bases fueron obtenidas de la <a href='https://data.buenosaires.gob.ar/' target='_blank'>web del Gobierno de la Ciudad/a> y son las siguientes:",
+			"paragraph_2": "<ul>Departamentos en venta de Capital Federal durante los años 2007 - 2015</ul>",
+			"paragraph_3": "<ul>Centros de Salud Privado</ul>",
+			"paragraph_4": "<ul>Centros de Salud y Acción Comunitaria</ul>",
+			"paragraph_5": "<ul>Centros Médicos Barriales</ul>",
+			"paragraph_6": "<ul>Comisarías</ul>",
+			"paragraph_7": "<ul>Establecimientos Educativos</ul>",
 			"section": "Bases de datos"
 		},
 		"profile_quote": {
