@@ -2,19 +2,19 @@
 	"name": "English",
 	"terms": [{
 		"profile_photo": {
-			"name": "Labrador",
-			"position": "Loyal friend",
-			"change": "change to ",
-			"scroll_down": "Scroll down",
-			"section": "Me"
+			"name": "INVERSIÓN INMOBILIARIA",
+			"position": "Trabajo final de EANT",
+			"change": "cambiar a ",
+			"scroll_down": "Desplazar hacia abajo",
+			"section": "Inicio"
 		},
 		"profile_about": {
-			"title": "About",
+			"title": "Introducción",
 			"paragraph_1": "My full name is Charlotte Donini, but my friends call me simply 'Lotte' :-). I am a <a href='https://pt.wikipedia.org/wiki/Labrador_retriever' title='Labrador in wiki' target='_blank'> female labrador retriever </a>. I live with my lovely family.",
 			"paragraph_2": "I am very playful with my large size I drop everything that crosses in my way.",
 			"paragraph_3": "I love eating and sleeping during the day, lie in the sun belly up is my preferred position.",
 			"paragraph_4": "Run and walk with my master are my favorite sports.",
-			"section": "About",
+			"section": "Introducción",
 			"title_social": "Social"
 		},
 		"profile_quote": {
