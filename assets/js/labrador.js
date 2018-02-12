@@ -19,8 +19,8 @@ $(document).ready(function () {
 		if (scroll >= 1200) $('.text-base p').addClass('show');
 		if (scroll <= 1000) $('.text-base p').removeClass('show');
 		// QUOTE
-		if (scroll >= 1200) { $('.text-quote p').addClass('show'); $('.section-bullets').addClass('section-bullets-white'); }
-		if (scroll >= 2090 || scroll <= 1200) { $('.text-quote p').removeClass('show');$('.section-bullets').removeClass('section-bullets-white'); }
+		if (scroll >= 2000) { $('.text-quote p').addClass('show'); $('.section-bullets').addClass('section-bullets-white'); }
+		if (scroll >= 2800 || scroll <= 1200) { $('.text-quote p').removeClass('show');$('.section-bullets').removeClass('section-bullets-white'); }
 		// LANGUAGE
 		if (scroll >= 1580) { $('.profile-photo').addClass('profile-photo-white'); }
 		if (scroll >= 2280 || scroll <= 1580) { $('.profile-photo').removeClass('profile-photo-white'); }
