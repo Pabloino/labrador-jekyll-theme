@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /ent/
+permalink: /en/
 lang: en
 ---
 {% include sections/profile-photo.html %}
