@@ -7,4 +7,6 @@ lang: en
 
 {% include sections/profile-about.html %}
 
+{% include sections/profile-base.html %}
+
 {% include sections/profile-quote.html %}
