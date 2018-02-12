@@ -10,12 +10,10 @@
 		},
 		"profile_about": {
 			"title": "Introducción",
-			"paragraph_1": "My full name is Charlotte Donini, but my friends call me simply 'Lotte' :-). I am a <a href='https://pt.wikipedia.org/wiki/Labrador_retriever' title='Labrador in wiki' target='_blank'> female labrador retriever </a>. I live with my lovely family.",
-			"paragraph_2": "I am very playful with my large size I drop everything that crosses in my way.",
-			"paragraph_3": "I love eating and sleeping during the day, lie in the sun belly up is my preferred position.",
-			"paragraph_4": "Run and walk with my master are my favorite sports.",
-			"section": "Introducción",
-			"title_social": "Social"
+			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
+			"paragraph_2": "La idea principal del trabajo será predecir, la localización del inmueble en el cual se obtendrá el mayor incremento en el precio, para el año siguiente, en base al reconocimiento de las variables que determinan que el incremento sea mayor a un umbral definido.",
+			"paragraph_3": "El umbral se definirá como el percentil 90.",
+			"section": "Introducción"
 		},
 		"profile_quote": {
 			"title": "Favorite quote",
