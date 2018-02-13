@@ -1,5 +1,10 @@
 .profile-base {
     background-color: $color_white;
+    background-image: url("../img/back-base.jpg");
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: $color_black;
     min-height: 60vh;
     position: relative;
