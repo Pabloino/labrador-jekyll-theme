@@ -11,6 +11,11 @@
 
 .profile-about {
     background-color: $color_white;
+    background-image: url("../img/back-intro.png");
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: $color_black;
     min-height: 50vh;
     position: relative;
