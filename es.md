@@ -9,4 +9,4 @@ lang: es
 
 {% include sections/profile-base.html %}
 
-{% include sections/profile-quote.html %}
+{% include sections/profile-preprouno.html %}
