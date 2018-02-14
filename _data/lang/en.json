@@ -16,8 +16,8 @@
 		},
 		"profile_base": {
 			"title": "Databases",
-			"paragraph_1": "Las bases fueron obtenidas de la <a href='https://data.buenosaires.gob.ar/' target='_blank'>web del Gobierno de la Ciudad</a> y son las siguientes:",
-			"paragraph_2": "- Departamentos en venta de Capital Federal durante los años 2007 - 2015<br />- Centros de Salud Privado<br />- Centros de Salud y Acción Comunitaria<br />- Centros Médicos Barriales<br />- Comisarías<br />- Establecimientos Educativos<br />- Estaciones de Subte<br />- Estaciones de Metrobus<br />- Estaciones de Ferrocarril<br />- Clubes<br />- Hospitales<br />- Cuarteles y destacamientos de bomberos de Policía<br />- Paradas de Colectivo<br />- Dependencias Culturales<br />- Farmacias<br />- Universidades",
+			"paragraph_1": "The databases were obtained from the <a href='https://data.buenosaires.gob.ar/' target='_blank'>Government of the City of Buenos Aires website</a> and are the following:",
+			"paragraph_2": "- Departments for sale of Buenos aires city during the years 2007 - 2015<br />- Private Health Centers<br />- Health Centers and Community Action<br />- Medical Centers Neighborhoods<br />- Police stations<br />- Educational establishments<br />- Subway stations<br />- Metrobus stations<br />- Railway stations<br />- Clubs<br />- Hospitals<br />- Barracks and police fire stations<br />- Bus stops<br />- Cultural dependencies<br />- Pharmacies<br />- Universities",
 			"section": "Databases"
 		},
 		"profile_quote": {
