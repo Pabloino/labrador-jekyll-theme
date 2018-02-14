@@ -23,7 +23,7 @@
   {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
   {% endif %}
-  <meta content="{{ site.url }}/pt/#scrollto-section-2/" property="article:author">
+  <meta content="{{ site.url }}/en/#scrollto-section-2/" property="article:author">
   {% if page.image %}
   <meta content="{{ site.url | append: page.image }}" property="og:image">
   {% else %}
@@ -39,7 +39,7 @@
   <meta content="{{ tag }}" property="article:tag">
     {% endfor %}
   {% endif %}
-  <meta name="DC.language" scheme="ISO639-1" content="pt-br">
+  <meta name="DC.language" scheme="ISO639-1" content="en-us">
 
 
   <!-- CSS -->
@@ -56,7 +56,7 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-  <meta http-equiv="content-language" content="pt-br">
+  <meta http-equiv="content-language" content="en-us">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
