@@ -2,31 +2,29 @@
 	"name": "English",
 	"terms": [{
 		"profile_photo": {
-			"name": "Labrador",
-			"position": "Amigo fiel",
-			"change": "mudar para ",
-			"scroll_down": "Rolar para baixo",
-			"section": "Eu"
+			"name": "INVERSIÓN INMOBILIARIA EN BUENOS AIRES",
+			"position": "Trabajo final de EANT - Carrera de Data Scientist",
+			"change": "cambiar a ",
+			"section": "Inicio"
 		},
 		"profile_about": {
-			"title": "Sobre",
-			"paragraph_1": "Meu nome completo é Charlotte Donini, mas meus amigos me chamam simplesmente de 'Lotte' :-). Sou uma <a href='https://pt.wikipedia.org/wiki/Labrador_retriever' title='Labrador na wiki' target='_blank'>labradora retriever</a>. Vivo com minha adorável família.",
-			"paragraph_2": "Eu sou muito brincalhona, com meu tamanho avantajado derrubo tudo que se atravesse em frente.",
-			"paragraph_3": "Adoro comer e dormir durante o dia, deitar ao sol de barriga para cima é minha posição preferida.",
-			"paragraph_4": "Correr e caminhar com meu dono são meus esportes preferidos.",
-			"section": "Sobre",
-			"title_social": "Social"
+			"title": "Introducción",
+			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
+			"paragraph_2": "La idea principal del trabajo será predecir, la localización del inmueble en el cual se obtendrá el mayor incremento en el precio, para el año siguiente, en base al reconocimiento de las variables que determinan que el incremento sea mayor a un umbral definido.",
+			"paragraph_3": "El umbral se definirá como el percentil 90.",
+			"section": "Introducción"
+		},
+		"profile_base": {
+			"title": "Bases de datos",
+			"paragraph_1": "Las bases fueron obtenidas de la <a href='https://data.buenosaires.gob.ar/' target='_blank'>web del Gobierno de la Ciudad</a> y son las siguientes:",
+			"paragraph_2": "- Departamentos en venta de Capital Federal durante los años 2007 - 2015<br />- Centros de Salud Privado<br />- Centros de Salud y Acción Comunitaria<br />- Centros Médicos Barriales<br />- Comisarías<br />- Establecimientos Educativos<br />- Estaciones de Subte<br />- Estaciones de Metrobus<br />- Estaciones de Ferrocarril<br />- Clubes<br />- Hospitales<br />- Cuarteles y destacamientos de bomberos de Policía<br />- Paradas de Colectivo<br />- Dependencias Culturales<br />- Farmacias<br />- Universidades",
+			"section": "Bases de datos"
 		},
 		"profile_quote": {
-			"title": "Citação favorita",
-			"quote": "\" Não importa que sejam poucas as suas posses e o seu dinheiro. Ter um cão torna-o rico. \"",
+			"title": "Favorite quote",
+			"quote": "\" No matter that few are your possessions and your money. Having a dog makes you rich. \"",
 			"author": "Louis Sabin",
-			"section": "Citação"
-		},
-		"blog_posts": {
-			"title": "Últimos posts",
-			"more_posts": "mais posts",
-			"section": "Últimos posts"
+			"section": "Quote"
 		},
 		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
 	}]
