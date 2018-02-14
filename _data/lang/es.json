@@ -20,11 +20,11 @@
 			"paragraph_2": "- Departamentos en venta de Capital Federal durante los años 2007 - 2015<br />- Centros de Salud Privado<br />- Centros de Salud y Acción Comunitaria<br />- Centros Médicos Barriales<br />- Comisarías<br />- Establecimientos Educativos<br />- Estaciones de Subte<br />- Estaciones de Metrobus<br />- Estaciones de Ferrocarril<br />- Clubes<br />- Hospitales<br />- Cuarteles y destacamientos de bomberos de Policía<br />- Paradas de Colectivo<br />- Dependencias Culturales<br />- Farmacias<br />- Universidades",
 			"section": "Bases de datos"
 		},
-		"profile_quote": {
-			"title": "Favorite quote",
-			"quote": "\" No matter that few are your possessions and your money. Having a dog makes you rich. \"",
-			"author": "Louis Sabin",
-			"section": "Quote"
+		"profile_preprouno": {
+			"title": "Procesamiento - Primera parte",
+			"paragraph_1": "The threshold is defined as the 90th percentile.",
+			"paragraph_2": "The threshold is defined as the 90th percentile."
+			"section": "Procesamiento 1"
 		},
 		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
 	}]
