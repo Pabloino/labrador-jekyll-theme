@@ -2,23 +2,23 @@
 	"name": "English",
 	"terms": [{
 		"profile_photo": {
-			"name": "INVERSIÓN INMOBILIARIA EN BUENOS AIRES",
-			"position": "Trabajo final de EANT - Carrera de Data Scientist",
-			"change": "cambiar a ",
-			"section": "Inicio"
+			"name": "REAL ESTATE INVESTMENT IN BUENOS AIRES",
+			"position": "Final work of EANT - Data Scientist career",
+			"change": "Change to",
+			"section": "Home"
 		},
 		"profile_about": {
-			"title": "Introducción",
-			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
-			"paragraph_2": "La idea principal del trabajo será predecir, la localización del inmueble en el cual se obtendrá el mayor incremento en el precio, para el año siguiente, en base al reconocimiento de las variables que determinan que el incremento sea mayor a un umbral definido.",
-			"paragraph_3": "El umbral se definirá como el percentil 90.",
-			"section": "Introducción"
+			"title": "Introduction",
+			"paragraph_1": "If I had to buy a department as an investment, where would I do it?",
+			"paragraph_2": "The main idea of the work will be to predict the location of the property in which the greatest increase in the price will be obtained, for the following year, based on the recognition of the variables that determine that the increase is greater than a defined threshold.",
+			"paragraph_3": "The threshold is defined as the 90th percentile.",
+			"section": "Introduction"
 		},
 		"profile_base": {
-			"title": "Bases de datos",
+			"title": "Databases",
 			"paragraph_1": "Las bases fueron obtenidas de la <a href='https://data.buenosaires.gob.ar/' target='_blank'>web del Gobierno de la Ciudad</a> y son las siguientes:",
 			"paragraph_2": "- Departamentos en venta de Capital Federal durante los años 2007 - 2015<br />- Centros de Salud Privado<br />- Centros de Salud y Acción Comunitaria<br />- Centros Médicos Barriales<br />- Comisarías<br />- Establecimientos Educativos<br />- Estaciones de Subte<br />- Estaciones de Metrobus<br />- Estaciones de Ferrocarril<br />- Clubes<br />- Hospitales<br />- Cuarteles y destacamientos de bomberos de Policía<br />- Paradas de Colectivo<br />- Dependencias Culturales<br />- Farmacias<br />- Universidades",
-			"section": "Bases de datos"
+			"section": "Databases"
 		},
 		"profile_quote": {
 			"title": "Favorite quote",
