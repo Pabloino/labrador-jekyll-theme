@@ -11,8 +11,8 @@ $(document).ready(function () {
 		if (scroll > 1600) { $('.text-preprouno p').addClass('show'); $('.section-bullets').addClass('section-bullets-black'); }
 		if (scroll >= 2800 || scroll <= 2200) { $('.text-preprouno p').removeClass('show'); $('.section-bullets').removeClass('section-bullets-black'); }
 		// LANGUAGE
-		if (scroll >= 1580) { $('.profile-photo').addClass('profile-photo-white'); }
-		if (scroll >= 2280 || scroll <= 1580) { $('.profile-photo').removeClass('profile-photo-white'); }
+		if (scroll >= 5580) { $('.profile-photo').addClass('profile-photo-white'); }
+		if (scroll >= 6280 || scroll <= 5580) { $('.profile-photo').removeClass('profile-photo-white'); }
 		console.log(scroll);
 	});
 
