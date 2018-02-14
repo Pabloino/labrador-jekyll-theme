@@ -1,11 +1,12 @@
 .profile-preprouno {
     background-color: $color_white;
-    background-image: url("../img/back-base.png");
-    background-position: center bottom;
+    background-image: url("../img/back-proc.png");
+    background-attachment: fixed;
+    background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
     color: $color_white;
-    min-height: 60vh;
+    min-height: 100vh;
     position: relative;
     padding: 80px 0;
     .text-preprouno {
