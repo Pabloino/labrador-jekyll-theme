@@ -12,13 +12,12 @@
 $(document).ready(function () { 
 	$(window).scroll(function (event) {
 		var scroll = $(window).scrollTop();
-		if (scroll > 0 & scroll < 200)  $('.section-bullets').addClass('section-bullets-white');
 		// ABOUT
 		if (scroll >= 400)  $('.text-about p').addClass('show');
-		if (scroll <= 200 || scroll >= 1200)  $('.text-about p').removeClass('show');
+		if (scroll <= 200 || scroll >= 800)  $('.text-about p').removeClass('show');
 		// BASE
 		if (scroll >= 1000) { $('.text-base p').addClass('show'); $('.section-bullets').addClass('section-bullets-white'); }
-		if (scroll <= 800 || scroll >= 1800) { $('.text-base p').removeClass('show'); $('.section-bullets').removeClass('section-bullets-white'); }
+		if (scroll <= 800 || scroll >= 1600) { $('.text-base p').removeClass('show'); $('.section-bullets').removeClass('section-bullets-white'); }
 		// QUOTE
 		if (scroll >= 2000) { $('.text-quote p').addClass('show'); $('.section-bullets').addClass('section-bullets-white'); }
 		if (scroll >= 2800 || scroll <= 1200) { $('.text-quote p').removeClass('show');$('.section-bullets').removeClass('section-bullets-white'); }
