@@ -1,14 +1,3 @@
-/*
- *
- *  ||    // \\ || )) || \\ // \\ || \\   // \\  || \\
- *  ||    ||=|| ||=)  ||_// ||=|| ||  )) ((   )) ||_//
- *  ||__| || || ||_)) || \\ || || ||_//   \\_//  || \\
- *
- *
- * Designed, built, and released under MIT license by @donini. Learn more at
- * https://github.com/donini/labrador-jekyll-theme.
- */
-
 $(document).ready(function () { 
 	$(window).scroll(function (event) {
 		var scroll = $(window).scrollTop();
@@ -18,9 +7,9 @@ $(document).ready(function () {
 		// BASE
 		if (scroll >= 1000) { $('.text-base p').addClass('show'); }
 		if (scroll <= 800 || scroll >= 1600) { $('.text-base p').removeClass('show'); }
-		// QUOTE
-		if (scroll >= 2000) { $('.text-quote p').addClass('show'); }
-		if (scroll >= 2800 || scroll <= 1200) { $('.text-quote p').removeClass('show'); }
+		// PROCESAMIENTO 1
+		if (scroll >= 2000) { $('.text-preprouno p').addClass('show'); }
+		if (scroll >= 2800 || scroll <= 1200) { $('.text-preprouno p').removeClass('show'); }
 		// LANGUAGE
 		if (scroll >= 1580) { $('.profile-photo').addClass('profile-photo-white'); }
 		if (scroll >= 2280 || scroll <= 1580) { $('.profile-photo').removeClass('profile-photo-white'); }
