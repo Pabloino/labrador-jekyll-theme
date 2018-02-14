@@ -22,8 +22,8 @@
 		},
 		"profile_preprouno": {
 			"title": "Procesamiento",
-			"paragraph_1": "The threshold is defined as the 90th percentile.",
-			"paragraph_2": "The threshold is defined as the 90th percentile.",
+			"paragraph_1": "PRIMERA PARTE",
+			"paragraph_2": "La primera parte del proceso consistió en tomar las bases de los departamentos en venta del 2007 al 2015 para luego unificarlos en su solo archivo. Para ello, tomamos dichas bases y las filtramos por las columnas que tengan en común. Para el set de datos de departamentos del 2015, fue necesario renombrar algunas de sus columnas para que coincidan con los nombres de columnas del resto de los datasets: como 'Barrios' por 'Barrio', 'Baul' por 'Baulera', etc. para poder concluir con la unificación de estas bases.",
 			"section": "Procesamiento"
 		},
 		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
