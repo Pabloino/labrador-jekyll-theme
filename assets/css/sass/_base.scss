@@ -95,14 +95,14 @@ footer {
     color: $color_white;
 }
 
-// Bullets white
-.section-bullets-white li a:after {
+// Bullets black
+.section-bullets-black li a:after {
     background-color: $color_black !important;
 }
-.section-bullets-white li.active a:after {
+.section-bullets-black li.active a:after {
     border:2px solid $color_black !important; 
 }
-.section-bullets-white li span {
+.section-bullets-black li span {
     color: $color_black !important;
 }
 
