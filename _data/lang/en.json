@@ -21,10 +21,10 @@
 			"section": "Databases"
 		},
 		"profile_preprouno": {
-			"title": "Procesamiento - Primera parte",
+			"title": "Procesamiento",
 			"paragraph_1": "The threshold is defined as the 90th percentile.",
 			"paragraph_2": "The threshold is defined as the 90th percentile.",
-			"section": "Procesamiento 1"
+			"section": "Procesamiento"
 		},
 		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
 	}]
