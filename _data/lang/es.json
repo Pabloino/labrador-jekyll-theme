@@ -43,6 +43,7 @@
 			"paragraph_19": "- Barrio: No se encontraron valores NA pero sí algunos errores de tipeo que tuvieron que ser corregidos, como 'NUNES' por 'NUÑEZ', 'MONSERRAT' por 'MONTSERRAT', etc.",
 			"paragraph_20": "- Para el resto de las columnas, sean 'LAVADERO', 'BAULERA' y 'COCHERA', simplemente se reemplazó con 1 si posee tal propiedad y 0 si no la posee.",
 			"paragraph_21": "TERCERA ETAPA",
+			"paragraph_22": "En la tercera etapa del proceso se agregaron los puntos de interés cercanos a cada departamento, ya sea paradas de colectivo, subtes, trenes, farmacias, centros de salud, comisarías, etc. Esto nos dá una idea acerca de la ubicación de cada departamento, es decir si se encuentra en una zona céntrica o comercial o está alejado del centro, lo cual difiere en precio de las ventas. Para ello, se estableció por cada departamento un radio de 5 manzanas alrededor del mismo para luego observar los puntos de interés que caen dentro del área:",
 			"section": "Procesamiento"
 		},
 		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
