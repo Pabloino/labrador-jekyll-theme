@@ -50,6 +50,13 @@
 			"paragraph_26": "Para más información sobre la implementación y manipulación de esta etapa, pueden acceder <a href='https://github.com/Pabloino/tp-final-eant/blob/master/preprocesamiento3.ipynb' target='_blank'>a este repositorio</a>.",
 			"section": "Procesamiento"
 		},
+		"profile_agrup": {
+			"title": "Agrupación",
+			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
+			"paragraph_2": "La idea principal del trabajo será predecir, la localización del inmueble en el cual se obtendrá el mayor incremento en el precio, para el año siguiente, en base al reconocimiento de las variables que determinan que el incremento sea mayor a un umbral definido.",
+			"paragraph_3": "El umbral se definirá como el percentil 90.",
+			"section": "Agrupación"
+		},
 		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
 	}]
 }
