@@ -41,7 +41,7 @@
 			"paragraph_17": "<center><img src='https://raw.githubusercontent.com/Pabloino/tp-eant-blog/gh-pages/assets/img/boxplot-amb.png' style='max-height: 100%; max-width: 100%;'></center>",
 			"paragraph_18": "El gráfico de boxplot muestra que podríamos predecir hasta 6 ambientes, ya que con más ambientes tenemos pocos datos y probablemente erróneos, ya que hay departamentos de muchos ambientes con pocos metros cuadrados, la cual no tiene sentido. Con este gráfico se estimó la cantidad de ambientes para los siguientes rangos de metros cuadrados:<br /><br />Entre 14 y 42: 1 ambiente.<br />Entre 43 y 59: 2 ambientes.<br />Entre 60 y 89: 3 ambientes.<br />Entre 90 y 149: 4 ambientes.<br />Entre 150 y 260: 5 ambientes.<br />Entre 261 y 285: 6 ambientes.<br /><br />Para el resto de los metros cuadrados, es decir de 285 en adelante, los eliminamos ya que abarcan unos pocos cientos de datos.",
 			"paragraph_19": "- Barrio: No se encontraron valores NA pero sí algunos errores de tipeo que tuvieron que ser corregidos, como 'NUNES' por 'NUÑEZ', 'MONSERRAT' por 'MONTSERRAT', etc.",
-			"paragraph_20": "- Para el resto de las columnas, sean 'LAVADERO', 'BAULERA' y 'COCHERA', simplemente se reemplazó con 1 si posee tal propiedad y 0 si no lo posee.",
+			"paragraph_20": "- Para el resto de las columnas, sean 'LAVADERO', 'BAULERA' y 'COCHERA', simplemente se reemplazó con 1 si posee tal propiedad y 0 si no la posee.",
 			"paragraph_21": "TERCERA ETAPA",
 			"section": "Procesamiento"
 		},
