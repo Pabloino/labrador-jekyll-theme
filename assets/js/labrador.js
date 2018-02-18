@@ -9,7 +9,7 @@ $(document).ready(function () {
 		if (scroll <= 800 || scroll >= 1600) { $('.text-base p').removeClass('show'); }
 		// PROCESAMIENTO
 		if (scroll > 1600) { $('.text-preprouno p').addClass('show'); $('.section-bullets').addClass('section-bullets-black'); }
-		if ((scroll >= 800 && scroll <= 1400) || scroll >= 7000) { $('.text-preprouno p').removeClass('show'); $('.section-bullets').removeClass('section-bullets-black'); }
+		if ((scroll >= 800 && scroll <= 1400) || scroll >= 7400) { $('.text-preprouno p').removeClass('show'); $('.section-bullets').removeClass('section-bullets-black'); }
 		// LANGUAGE
 		if (scroll >= 15580) { $('.profile-photo').addClass('profile-photo-white'); }
 		if (scroll >= 16280 || scroll <= 15580) { $('.profile-photo').removeClass('profile-photo-white'); }
