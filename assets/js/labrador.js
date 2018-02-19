@@ -12,7 +12,7 @@ $(document).ready(function () {
 		if ((scroll >= 800 && scroll <= 1400) || scroll >= 7400) { $('.section-bullets').removeClass('section-bullets-black'); }
 		// AGRUPACION
 		if (scroll > 7100) { $('.text-agrup p').addClass('show'); }
-		if ((scroll >= 6300 && scroll <= 6900) || scroll >= 8000) { $('.text-agrup p').removeClass('show'); }
+		if ((scroll >= 6300 && scroll <= 6900) || scroll >= 7900) { $('.text-agrup p').removeClass('show'); }
 		// LANGUAGE
 		if (scroll >= 15580) { $('.profile-photo').addClass('profile-photo-white'); }
 		if (scroll >= 16280 || scroll <= 15580) { $('.profile-photo').removeClass('profile-photo-white'); }
