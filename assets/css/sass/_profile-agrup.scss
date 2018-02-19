@@ -1,10 +1,10 @@
 .profile-agrup {
     background-color: $color_white;
-    background-image: url("../img/back-intro.png");
+    background-image: url("../img/back-agrup.png");
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    color: $color_black;
+    color: $color_white;
     min-height: 75vh;
     position: relative;
     padding: 80px 0;
@@ -18,7 +18,7 @@
             letter-spacing: 1px;
         }
         a {
-            color: $color_gray64;
+            color: $color_white;
             text-decoration: underline;
             font-style: italic;
             &:hover {
@@ -29,7 +29,7 @@
             cursor: pointer;
         }
         p {
-            color: $color_grey_dark;
+            color: $color_white;
             line-height: 1.5em;
             margin: 30px 0 0 0;
             z-indexms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";/* IE 8 */
