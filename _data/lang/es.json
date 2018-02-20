@@ -50,8 +50,8 @@
 		"profile_agrup": {
 			"title": "Agrupación",
 			"paragraph_1": "Una vez finalizada el procesamiento de los datos, los agrupamos por Radios Censales. La idea principal de agrupar la base se debe a que, dado que vamos a comparar la variación del precio del metro cuadrado año a año, no vamos a poder contar con los mismos departamentos en cada año ya que hay departamentos que se venden mientras por otro lado surgen nuevos departamentos en venta. Debido a este motivo, la comparación se realizará entre distintos grupos.",
-			"paragraph_2": "La base de Radios Censales nos permitirá agrupar en 3371 grupos, donde cada uno de ellos incorpora la información del grupo (link), población total y viviendas particulares.",
-			"paragraph_3": "El umbral se definirá como el percentil 90.",
+			"paragraph_2": "Para ello contamos con una base de radios censales que contiene información como latitud, longitud, ubicación, grupo, población, hogares, viviendas, etc. que será unificada con la base de las ventas de departamentos generada anteriormente en el procesamiento mediante la longitud y latitud cuyas columnas en común tienen ambas bases.",
+			"paragraph_3": "",
 			"section": "Agrupación"
 		},
 		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
