@@ -55,6 +55,13 @@
 			"paragraph_4": "When obtaining these groups, for each group, we take the price variation per square meter year to year, and then calculate the average of the variations of the years 2007-2015. We use averages because there are several groups where they do not have any of the annual variations, because there are no departments in the group in any of the observed years.",
 			"section": "Grouping"
 		},
+		"profile_result": {
+			"title": "Resultado",
+			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
+			"paragraph_2": "La idea principal del trabajo será predecir, la localización del inmueble en el cual se obtendrá el mayor incremento en el precio, para el año siguiente, en base al reconocimiento de las variables que determinan que el incremento sea mayor a un umbral definido.",
+			"paragraph_3": "El umbral se definirá como el percentil 90.",
+			"section": "Resultado"
+		},
 		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
 	}]
 }
