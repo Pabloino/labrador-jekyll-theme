@@ -13,4 +13,6 @@ lang: en
 
 {% include sections/profile-agrup.html %}
 
+{% include sections/profile-predict.html %}
+
 {% include sections/profile-result.html %}
