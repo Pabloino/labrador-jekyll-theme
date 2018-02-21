@@ -55,6 +55,13 @@
 			"paragraph_4": "Al obtener dichas agrupaciones, para cada grupo, sacamos la variación del precio por metro cuadrado año a año, y luego calculamos el promedio de las variaciones de los años 2007-2015. Usamos promedios debido a que hay varios grupos donde no tienen alguna de las variaciones anuales, por no tener departamentos en el grupo en alguno de los años observados.",
 			"section": "Agrupación"
 		},
+		"profile_predict": {
+			"title": "Predicción",
+			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
+			"paragraph_2": "La idea principal del trabajo será predecir, la localización del inmueble en el cual se obtendrá el mayor incremento en el precio, para el año siguiente, en base al reconocimiento de las variables que determinan que el incremento sea mayor a un umbral definido.",
+			"paragraph_3": "El umbral se definirá como el percentil 90.",
+			"section": "Predicción"
+		},
 		"profile_result": {
 			"title": "Resultado",
 			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
