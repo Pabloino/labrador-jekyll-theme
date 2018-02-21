@@ -48,12 +48,12 @@
 			"section": "Process"
 		},
 		"profile_agrup": {
-			"title": "Agrupación",
-			"paragraph_1": "Una vez finalizada el procesamiento de los datos, los agrupamos por Radios Censales. La idea principal de agrupar la base se debe a que, dado que vamos a comparar la variación del precio del metro cuadrado año a año, no vamos a poder contar con los mismos departamentos en cada año ya que hay departamentos que se venden mientras por otro lado surgen nuevos departamentos en venta. Debido a este motivo, la comparación se realizará entre distintos grupos.",
-			"paragraph_2": "Para ello contamos con una base de radios censales que contiene información como latitud, longitud, ubicación, grupo, población, hogares, viviendas, etc. que será unificada con la base de las ventas de departamentos generada anteriormente mediante la longitud y latitud cuyos datos tienen ambas bases en común. De esta forma, la base de radios censales nos permitirá agrupar en 3371 grupos.",
-			"paragraph_3": "Una vez unificada las bases, agrupamos los datos por 'AÑO' y por 'GRUPO', y para cada uno de ellos obtenemos la media de los metros cuadrados, dólares, precio por metro cuadrado, ambientes, baulera, cochera, baño, lavadero, balcón, terraza y patio. En cuanto a la cantidad de lugares de interés cercanos, usamos la suma de los mismos para la agrupación.",
-			"paragraph_4": "Al obtener dichas agrupaciones, para cada grupo, sacamos la variación del precio por metro cuadrado año a año, y luego calculamos el promedio de las variaciones de los años 2007-2015. Usamos promedios debido a que hay varios grupos donde no tienen alguna de las variaciones anuales, por no tener departamentos en el grupo en alguno de los años observados.",
-			"section": "Agrupación"
+			"title": "Grouping",
+			"paragraph_1": "Once the processing of the data is finished, we group them by census radius. The main idea of grouping the database is because, since we are going to compare the price variation of the square meter year after year, we will not be able to count on the same departments in each year since there are departments that are sold while, on the other hand, new apartments for sale arise. Due to this reason, the comparison will be made between different groups.",
+			"paragraph_2": "For this we have a database of census radius from soil surveys that contains information such as latitude, longitude, location, group, population, homes, etc. that will be unified with the database of the sales of departments generated previously by the longitude and latitude whose data have both databases in common. In this way, the database of census radius will allow us to group the database in 3371 groups.",
+			"paragraph_3": "Once the databases are unified, we group the data by 'YEAR' and by 'GROUP', and for each of them we obtain the average of the square meters, dollars, price per square meter, rooms, basement, garage, bathroom, laundry, balcony, terrace and yard. As for the number of nearby places of interest, we use the sum of them for the grouping.",
+			"paragraph_4": "When obtaining these groups, for each group, we take the price variation per square meter year to year, and then calculate the average of the variations of the years 2007-2015. We use averages because there are several groups where they do not have any of the annual variations, because there are no departments in the group in any of the observed years.",
+			"section": "Grouping"
 		},
 		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
 	}]
