@@ -5,6 +5,7 @@ $(document).ready(function () {
 		$('.text-base p').addClass('show');
 		$('.text-preprouno p').addClass('show');
 		$('.text-agrup p').addClass('show');
+		$('.text-result p').addClass('show');
 		
 		// ABOUT
 		if (scroll >= 400) { $('.section-bullets').addClass('section-bullets-black'); }
