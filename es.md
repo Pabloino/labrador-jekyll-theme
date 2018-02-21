@@ -12,3 +12,5 @@ lang: es
 {% include sections/profile-preprouno.html %}
 
 {% include sections/profile-agrup.html %}
+
+{% include sections/profile-result.html %}
