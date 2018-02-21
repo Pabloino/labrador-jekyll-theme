@@ -5,6 +5,7 @@ $(document).ready(function () {
 		$('.text-base p').addClass('show');
 		$('.text-preprouno p').addClass('show');
 		$('.text-agrup p').addClass('show');
+		$('.text-predict p').addClass('show');
 		$('.text-result p').addClass('show');
 		
 		// ABOUT
