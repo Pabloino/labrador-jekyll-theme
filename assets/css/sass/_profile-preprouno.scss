@@ -19,7 +19,7 @@
             letter-spacing: 1px;
         }
         a {
-            color: $color_black;
+            color: $color_gray64;
             text-decoration: underline;
             font-style: italic;
             &:hover {
@@ -30,7 +30,7 @@
             cursor: pointer;
         }
         p {
-            color: $color_black;
+            color: $color_grey_dark;
             line-height: 1.5em;
             margin: 30px 0 0 0;
             z-indexms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";/* IE 8 */
