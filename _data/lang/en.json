@@ -11,7 +11,7 @@
 			"title": "Introduction",
 			"paragraph_1": "If I had to buy a department as an investment, where would I do it?",
 			"paragraph_2": "The main idea of the work will be to predict the location of the property in which the greatest increase in the price will be obtained, for the following year, based on the recognition of the variables that determine that the increase is greater than a defined threshold.",
-			"paragraph_3": "The threshold is defined as the 90th percentile.",
+			"paragraph_3": "The threshold is defined as the 95th percentile.",
 			"section": "Introduction"
 		},
 		"profile_base": {
