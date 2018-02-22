@@ -57,8 +57,8 @@
 		},
 		"profile_predict": {
 			"title": "Predicción",
-			"paragraph_1": "Con la base ya agrupada, tomamos el promedio de las variaciones de los años 2007-2015, los ordenamos de forma decreciente y como en la introducción mencionamos definir el umbral como el percentil 95, tomamos el último 5% de todo el dataset (que corresponde a los promedios de variaciones más altos) y los reemplazamos por 1, mientras el resto (el primer 95% del dataset) los reemplazamos por 0. Estos reemplazos fueron llevados a cabo de esta manera debido a que esta variable será la que utilizará el modelo predictivo como valor de salida para predecir los valores (1 o 0), y los algoritmos de aprendizaje suelen predecir valores de 1 o 0, o un valor entre ambos.",
-			"paragraph_2": "",
+			"paragraph_1": "Con la base ya agrupada, tomamos el promedio de las variaciones de los años 2007-2015, los ordenamos de forma decreciente y como en la introducción mencionamos definir el umbral como el percentil 95, tomamos el último 5% de todo el dataset (que corresponde a los promedios de variaciones más altos) y los reemplazamos por 1, mientras el resto (el primer 95% del dataset) los reemplazamos por 0. Estos reemplazos fueron llevados a cabo de esta manera debido a que esta variable será la que utilizará el modelo predictivo como valor de salida para predecir los valores (1 o 0), ya que los algoritmos de aprendizaje suelen predecir valores de 1 o 0, o un valor entre ambos.",
+			"paragraph_2": "Luego dividimos el data set en dos partes, uno para el set de entrenamiento que abarca los años 2007-2014, y otro para el set de pruebas que abarca el año 2015. El modelo utilizará el set de entrenamiento para ir entrenando o aprendiendo los datos y luego, mediante el set de pruebas, predecirá el promedio de variaciones del 2015 según la cantidad de ambientes, baños, metros cuadrados, etc. Dichas predicciones serán comparadas con los valores reales de los promedios de variaciones del 2015 que ya disponíamos antes para dar una idea acerca de la proximidad de los valores predichos con los valores reales mediante datos estadísticos.",
 			"paragraph_3": "",
 			"section": "Predicción"
 		},
