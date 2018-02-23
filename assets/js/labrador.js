@@ -17,9 +17,6 @@ $(document).ready(function () {
 		// PREDICCION
 		if (scroll > 7600) { $('.section-bullets').addClass('section-bullets-black'); }
 		if ((scroll >= 7200 && scroll <= 7400)) { $('.section-bullets').removeClass('section-bullets-black'); }
-		// LANGUAGE
-		if (scroll >= 15580) { $('.profile-photo').addClass('profile-photo-white'); }
-		if (scroll >= 16280 || scroll <= 15580) { $('.profile-photo').removeClass('profile-photo-white'); }
 		console.log(scroll);
 	});
 
