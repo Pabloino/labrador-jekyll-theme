@@ -56,11 +56,11 @@
 			"section": "Grouping"
 		},
 		"profile_predict": {
-			"title": "Predicción",
-			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
-			"paragraph_2": "La idea principal del trabajo será predecir, la localización del inmueble en el cual se obtendrá el mayor incremento en el precio, para el año siguiente, en base al reconocimiento de las variables que determinan que el incremento sea mayor a un umbral definido.",
-			"paragraph_3": "El umbral se definirá como el percentil 90.",
-			"section": "Predicción"
+			"title": "Prediction",
+			"paragraph_1": "With the base already grouped, we take the average of the variations of the years 2007-2015, we order them in a decreasing way and, as in the introduction we mention to defining the threshold as the 95th percentile, we take the last 5% of the whole dataset (corresponding to the averages of higher variations) and we replace them with 1, while the rest (the first 95% of the dataset) we replace them with 0. These replacements were carried out in this way because this variable will be used by the model predictive as an output value to predict the values (1 or 0), since the machine learning algorithms usually predict values of 1 or 0, or a value between both.",
+			"paragraph_2": "Then we divided the data set into two parts, one for the training set that covers the years 2007-2014, and another for the tests set that covers the year 2015. The model will use the training set to train or learn the data through the input values (rooms, bathrooms, square meters, etc.) and the output values (average of price variations), and then, through the tests set, it will predict the average of price variations of 2015 through the values of entry according to the training previously done. These predictions will be compared with the real values of the averages of variations of 2015 that we already had before building the model to give an idea about the proximity of the predicted values with the real values through statistical data.",
+			"paragraph_3": "Finally, we ran the model using random forest with XGBoost and made different samples for each modification of the model. In the best results, up to 96% accuracy was achieved.",
+			"section": "Prediction"
 		},
 		"profile_result": {
 			"title": "Resultado",
