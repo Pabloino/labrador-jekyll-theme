@@ -57,18 +57,19 @@
 		},
 		"profile_predict": {
 			"title": "Prediction",
-			"paragraph_1": "With the base already grouped, we take the average of the variations of the years 2007-2015, we order them in a decreasing way and, as in the introduction we mention to defining the threshold as the 95th percentile, we take the last 5% of the whole dataset (corresponding to the averages of higher variations) and we replace them with 1, while the rest (the first 95% of the dataset) we replace them with 0. These replacements were carried out in this way because this variable will be used by the model predictive as an output value to predict the values (1 or 0), since the machine learning algorithms usually predict values of 1 or 0, or a value between both.",
+			"paragraph_1": "With the base already grouped, we take the average of the variations of the years 2007-2015, we order them in a decreasing way and, as in the introduction we mention to defining the threshold as the 95th percentile, we take the last 5% of the whole dataset (corresponding to the higher averages of variations) and we replace them with 1, while the rest (the first 95% of the dataset) we replace them with 0. These replacements were carried out in this way because this variable will be used by the model predictive as an output value to predict the values (1 or 0), since the machine learning algorithms usually predict values of 1 or 0, or a value between both.",
 			"paragraph_2": "Then we divided the data set into two parts, one for the training set that covers the years 2007-2014, and another for the tests set that covers the year 2015. The model will use the training set to train or learn the data through the input values (rooms, bathrooms, square meters, etc.) and the output values (average of price variations), and then, through the tests set, it will predict the average of price variations of 2015 through the values of entry according to the training previously done. These predictions will be compared with the real values of the averages of variations of 2015 that we already had before building the model to give an idea about the proximity of the predicted values with the real values through statistical data.",
 			"paragraph_3": "Finally, we ran the model using random forest with XGBoost and made different samples for each modification of the model. In the best results, up to 96% accuracy was achieved.",
 			"section": "Prediction"
 		},
 		"profile_result": {
-			"title": "Resultado",
-			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
-			"paragraph_2": "La idea principal del trabajo será predecir, la localización del inmueble en el cual se obtendrá el mayor incremento en el precio, para el año siguiente, en base al reconocimiento de las variables que determinan que el incremento sea mayor a un umbral definido.",
-			"paragraph_3": "El umbral se definirá como el percentil 90.",
-			"section": "Resultado"
+			"title": "Result",
+			"paragraph_1": "Once the predictions on the average of variations of 2015 have been obtained, the last step is to visualize the results using a graph. For this, a geographic visualization of the Buenos Aires city was used, indicating the locations of the departments for sale that obtained the highest price increase per square meter, that is, the highest average  of variation. This is because the neighborhood or area where these departments are located are in full growth and it is very likely that in the coming years they will have higher points of interest close to each department, which implies that their price increases. In this way, it would be possible to obtain a large investment by buying a department that is in a growing area, as these results suggest.",
+			"paragraph_2": "Using the geographical visualization with the ggplot library, the following result was obtained:",
+			"paragraph_3": "<center><img src='https://raw.githubusercontent.com/Pabloino/tp-eant-blog/gh-pages/assets/img/resultados.png' style='max-height: 100%; max-width: 100%;'></center>",
+			"paragraph_4": "In the image you can see that the departments with the highest growth in price are mostly in the northwest and west of the city, covering neighborhoods such as Villa Pueyrredón, Liniers, Mataderos and Villa del Parque, which according to the results are the that are in full growth.",
+			"section": "Result"
 		},
-		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
+		"copyright": "Real estate investment in Buenos Aires.<br />Final work of EANT - Data Scientist career.<br /><br />Members: Pablo Inoriza - Romina Mattar<br /><br /><a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/' target='_blank'><img alt='Licencia Creative Commons' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>"
 	}]
 }
