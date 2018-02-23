@@ -64,9 +64,9 @@
 		},
 		"profile_result": {
 			"title": "Resultado",
-			"paragraph_1": "Si tuvieras que comprar un departamento como inversión, ¿Dónde lo harías?",
-			"paragraph_2": "La idea principal del trabajo será predecir, la localización del inmueble en el cual se obtendrá el mayor incremento en el precio, para el año siguiente, en base al reconocimiento de las variables que determinan que el incremento sea mayor a un umbral definido.",
-			"paragraph_3": "El umbral se definirá como el percentil 90.",
+			"paragraph_1": "Ya obtenida las predicciones sobre el promedio de las variaciones del 2015, el último paso consiste en visualizar los resultados mediante un gráfico. Para ello se utilizó una visualización geográfica de la Ciudad de Buenos Aires en la que se indican las ubicaciones de los departamentos en venta que obtuvieron mayor aumento de precio por metro cuadrado, es decir, mayor promedio de variación. Esto se debe a que el barrio o zona donde se encuentran ubicados dichos departamentos se encuentran en pleno crecimiento y es muy factible que en los próximos años tengan mayores puntos de interés cercanos a cada departamento, lo que implica que aumente su precio. De esta forma, se lograría obtener una gran inversión al comprar un departamento que se encuentre en una zona en pleno crecimiento, como sugieren estos resultados.<br />Usando la visualización geográfica se obtuvo el siguiente resultado:",
+			"paragraph_2": "",
+			"paragraph_3": "",
 			"section": "Resultado"
 		},
 		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
