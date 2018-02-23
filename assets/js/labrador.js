@@ -15,8 +15,8 @@ $(document).ready(function () {
 		if (scroll > 1600) { $('.section-bullets').addClass('section-bullets-black'); }
 		if ((scroll >= 800 && scroll <= 1400) || scroll >= 6800) { $('.section-bullets').removeClass('section-bullets-black'); }
 		// PREDICCION
-		if (scroll > 7200) { $('.section-bullets').addClass('section-bullets-black'); }
-		if ((scroll >= 6900 && scroll <= 7000) || scroll >= 10000) { $('.section-bullets').removeClass('section-bullets-black'); }
+		if (scroll > 7400) { $('.section-bullets').addClass('section-bullets-black'); }
+		if ((scroll >= 7000 && scroll <= 7200) || scroll >= 10000) { $('.section-bullets').removeClass('section-bullets-black'); }
 		// LANGUAGE
 		if (scroll >= 15580) { $('.profile-photo').addClass('profile-photo-white'); }
 		if (scroll >= 16280 || scroll <= 15580) { $('.profile-photo').removeClass('profile-photo-white'); }
