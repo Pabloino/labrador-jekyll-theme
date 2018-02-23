@@ -12,7 +12,7 @@
 // Global settings
 html, body {height:100%; margin: 0; padding: 0; font-family: $default_font_family;}
 html, body, h1, h2, h3, h4, h5, p, ul {margin: 0; padding: 0;}
-a { text-decoration: none; color: $color_black; }
+a { text-decoration: none; color: $color_white; }
 h1 { font-size: $h1_size; }
 h3 { font-size: $h3_size; }
 h4 { font-size: $h4_size; }
@@ -48,11 +48,9 @@ footer {
     z-index: 12;
 }
 footer .social-links ul {
-    color: $color_white;
     margin-bottom: 30px;
 }
 footer .social-links ul li {
-    color: $color_white;
     display: inline;
     margin: 0 30px ;
 }
