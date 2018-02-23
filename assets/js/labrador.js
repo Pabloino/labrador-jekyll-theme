@@ -14,6 +14,9 @@ $(document).ready(function () {
 		// PROCESAMIENTO
 		if (scroll > 1600) { $('.section-bullets').addClass('section-bullets-black'); }
 		if ((scroll >= 800 && scroll <= 1400) || scroll >= 6800) { $('.section-bullets').removeClass('section-bullets-black'); }
+		// PREDICCION
+		if (scroll > 9000) { $('.section-bullets').addClass('section-bullets-black'); }
+		if ((scroll >= 7000 && scroll <= 8800) || scroll >= 10000) { $('.section-bullets').removeClass('section-bullets-black'); }
 		// LANGUAGE
 		if (scroll >= 15580) { $('.profile-photo').addClass('profile-photo-white'); }
 		if (scroll >= 16280 || scroll <= 15580) { $('.profile-photo').removeClass('profile-photo-white'); }
